@@ -26,6 +26,8 @@ typedef struct treeNode{
 
 这个结构已经被我设置好了，在tree.h文件里面，你可以更改。你也可以在结构体中增添别的元素，但是data Lc Rc是必须的。
 
+感谢翁恺老师和浙大所有的计算机系的老师~使他们编写了acllib.h并教会了我这些可爱的知识~
+
 It's a very simple project and when you get confused by a binary tree, you want to draw that tree in some window.When you download the project you will see five files
 main. c tree. c tree.h acllib.h acllib.c 
 you can ignore the first four files.All you operation can be in main.c
@@ -53,3 +55,5 @@ Struct treeNode * Rc;
 } treeNode, * treePtr;
 
 This structure has been set by me, in the tree.h file, in which you can change it.You can also add other elements to the structure, but data Lc Rc is required.
+
+Thanks to Prof. kai Weng and all the teachers in the computer department of Zhejiang University ~ they wrote acllib.h and taught me these lovely knowledge ~
